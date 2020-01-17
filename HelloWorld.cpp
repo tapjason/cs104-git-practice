@@ -2,6 +2,5 @@
 
 int main()
 {
-	std::cout << "HelloWorld!" << std::endl;
-	// test
+	std::cout << "FightOn!" << std::endl;
 }
